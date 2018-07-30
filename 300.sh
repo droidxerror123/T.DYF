@@ -93,9 +93,9 @@ pkg install ruby -y wget gem
 pip install requests
 pip2 install mechanize
 git clone https://github.com/hatakecnk/xNot_Found
-git clone https://github.com/droidxerror/T.HUNTERv2
-git clone https://github.com/droidxerror/SpamISH
-git clone https://github.com/droidxerror/T.DEF-09
+git clone https://github.com/droidxerror123/T.HUNTERv2
+git clone https://github.com/droidxerror123/SpamISH
+git clone https://github.com/droidxerror123/T.DEF-09
 git clone https://github.com/Gameye98/santet-online
 git clone https://github.com/Ubaii/script-deface-creator
 git clone https://github.com/Gameye98/Lazymux.git
